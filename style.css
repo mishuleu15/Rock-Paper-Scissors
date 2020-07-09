@@ -108,3 +108,12 @@ h1 {
 #reset:active {
     transform: translateY(8px);
 }
+
+/* Media Query */
+
+@media screen and (max-width: 600px) {
+    html {
+        font-size: 0.5rem;
+    }
+}
+
